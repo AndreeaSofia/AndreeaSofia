@@ -8,7 +8,7 @@
 
 <div align="left">
  
- 🔭 Passionate about 🎮 conquering virtual realms and chasing pixelated daydreams,, 📚 diving into another chapter (both in books and life), and ⚽ finding joy in the rhythm of sports. I'm game for any adventure, especially if there's a story to tell or a challenge to embrace!
+ 🔭 Passionate about volunteering, 🎨 art, 🎮 conquering virtual realms and chasing pixelated daydreams,, 📚 diving into another chapter (both in books and life), and ⚽ finding joy in the rhythm of sports. I'm game for any adventure, especially if there's a story to tell or a challenge to embrace!
 
  💬 Always open to engaging discussions and the continuous joy of discovery.
 
