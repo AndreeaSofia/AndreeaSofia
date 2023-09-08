@@ -12,8 +12,6 @@
 
  💬 Always open to engaging discussions and the continuous joy of discovery.
 
- 📚 Currently honing my technical acumen at "Babeș-Bolyai" University.
-
  ⚡ **Professional journey**:
 <br>
 - During my professional journey, I had the opportunity to work as a _Business/Requirements Analyst_ on **four** different **projects**. While collaborating with multi-national teams, I grasped the intricate balance between functional requirements and their technical implementation and cultivated a knack for understanding global workflows. This hands-on experience **spurred a curiosity to delve deeper into the technical realm**.
