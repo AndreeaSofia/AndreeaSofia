@@ -21,7 +21,7 @@
 
  🤝 **Let's connect!**
 <br>
-- Whether it's a potential collaboration, a challenging problem, or just a chat about hobbies, I'm all ears. I'm particularly interested in opportunities that challenge me and expand my horizons.
+Whether it's a potential collaboration, a challenging problem, or just a chat about hobbies, I'm all ears. I'm particularly interested in opportunities that challenge me and expand my horizons.
  
  </div>
  
