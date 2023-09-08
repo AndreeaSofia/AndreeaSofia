@@ -16,7 +16,7 @@
 
  ⚡ **Professional journey**:
 <br>
-- During my professional journey, I had the opportunity to work as a _Business/Requirements Analyst_ on **four** different **projects**. While collaborating with multi-national teams, I grasped the intricate balance between functional requirements and their technical implementation and cultivated a knack for understanding global workflows. This hands-on experience **spurred** a **curiosity** to delve deeper into the technical realm.
+- During my professional journey, I had the opportunity to work as a _Business/Requirements Analyst_ on **four** different **projects**. While collaborating with multi-national teams, I grasped the intricate balance between functional requirements and their technical implementation and cultivated a knack for understanding global workflows. This hands-on experience **spurred a curiosity to delve deeper into the technical realm**.
 - Fueled by this newfound passion, I've embarked on a new academic adventure at BBU for a **BSc** in **Mathematics and Computer Science**. Eager to blend my hands-on industry insights with rigorous technical knowledge, I'm on a quest to bridge the gap between business needs and technological solutions. 
  
  📘 **Academia**: 
