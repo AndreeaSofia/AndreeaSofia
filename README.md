@@ -42,7 +42,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftOutlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/LucidChart-%23F7A23C?style=for-the-badge&logo=lucidchart&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftAccess-%23A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Moqups-%23259BEC?style=for-the-badge&logo=moqups&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftPowerpoint-%23B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftOneNote-%237719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white">
