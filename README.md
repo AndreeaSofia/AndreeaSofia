@@ -10,16 +10,14 @@
  
  🔭 Passionate about volunteering, 🎨 art, 🎮 conquering virtual realms and chasing pixelated daydreams, 📚 diving into another chapter (both in books and life), and ⚽ finding joy in the rhythm of sports. I'm game for any adventure, especially if there's a story to tell or a challenge to embrace!
 
- 💬 Always open to engaging discussions and the continuous joy of discovery.
+📘 **Academia**: 
+<br>
+- I began my academic journey at BBU, diving deep into the **Philosophy** realm during my **BA**. Though that chapter is yet to be fully penned, it laid a foundation for my analytical approach. This unique academic backdrop sharpened my logical reasoning, problem-solving prowess, and gave me a holistic view of systems — appreciating how interconnected components shape the broader picture.
 
  ⚡ **Professional journey**:
 <br>
 - During my professional journey, I had the opportunity to work as a _Business/Requirements Analyst_ on **four** different **projects**. While collaborating with multi-national teams, I grasped the intricate balance between functional requirements and their technical implementation and cultivated a knack for understanding global workflows. This hands-on experience **spurred a curiosity to delve deeper into the technical realm**.
 - Fueled by this newfound passion, I've embarked on a new academic adventure at BBU for a **BSc** in **Mathematics and Computer Science**. Eager to blend my hands-on industry insights with rigorous technical knowledge, I'm on a quest to bridge the gap between business needs and technological solutions. 
- 
- 📘 **Academia**: 
-<br>
-- I began my academic journey at UBB, diving deep into the _Philosophy_ realm during my *BA*. Though that chapter is yet to be fully penned, it laid a foundation for my analytical approach. This unique academic backdrop sharpened my logical reasoning, problem-solving prowess, and gave me a holistic view of systems — appreciating how interconnected components shape the broader picture.
 
  🤝 **Let's connect!**
 <br>
