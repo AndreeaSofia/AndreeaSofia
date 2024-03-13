@@ -2,26 +2,30 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+there!+👋;+I'm+Sophie.+🌸;" />
 </h1>
 
-<h3 align="center">~aspiring software developer~</h3>
+<h3 align="center">Driven by a mix of curiosity, empathy, and a passion for growth.</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 Passionate about volunteering, 🎨 art, 🎮 conquering virtual realms and chasing pixelated daydreams, 📚 diving into another chapter (both in books and life), and ⚽ finding joy in the rhythm of sports. I'm game for any adventure, especially if there's a story to tell or a challenge to embrace!
+ Welcome to my corner of the GitHub universe, where curiosity meets creativity. With a background in Philosophy from BBU, I've learned to navigate complex ideas with an analytical lens and a splash of empathy. Now, I'm diving into the world of Computer Science, eager to blend these new skills with a life-long passion for understanding and innovation.
 
-📘 **Academia**: 
-<br>
-- I began my academic journey at BBU, diving deep into the **Philosophy** realm during my **BA**. Though that chapter is yet to be fully penned, it laid a foundation for my analytical approach. This unique academic backdrop sharpened my logical reasoning, problem-solving prowess, and gave me a holistic view of systems — appreciating how interconnected components shape the broader picture.
 
- ⚡ **Professional journey**:
+🌱 **What Drives Me**
 <br>
-- During my professional journey, I had the opportunity to work as a _Business/Requirements Analyst_ on **four** different **projects**. While collaborating with multi-national teams, I grasped the intricate balance between functional requirements and their technical implementation and cultivated a knack for understanding global workflows. This hands-on experience **spurred a curiosity to delve deeper into the technical realm**.
-- Fueled by this newfound passion, I've embarked on a new academic adventure at BBU for a **BSc** in **Mathematics and Computer Science**. Eager to blend my hands-on industry insights with rigorous technical knowledge, I'm on a quest to bridge the gap between business needs and technological solutions. 
+I'm all about **_growth_**, **_empathy_**, and **_passion_**. While I may not boast a hefty tech repertoire just yet, my dedication and eagerness to learn are boundless. I believe that every line of code is a step towards mastery and every challenge is an _opportunity to expand my horizon_.
 
- 🤝 **Let's connect!**
 <br>
-Whether it's a potential collaboration, a challenging problem, or just a chat about hobbies, I'm all ears. I'm particularly interested in opportunities that challenge me and expand my horizons.
+
+ 🎨 **Beyond the Code**
+<br>
+When I'm not tackling algorithms or trying to decipher complex problems, you can find me lost in the pages of a good book, chasing the thrill in video games, or finding the rhythm in sports. Life, to me, is about the stories we tell and the experiences we share.
+
+<br>
+
+ 🤝 **Let's Connect**
+ <br>
+If you're here to explore potential collaborations, share insights, or just have a chat about the latest RPG or existential philosophy, I'm your person. I'm on the lookout for opportunities to learn, grow, and contribute in meaningful ways. So, let's make something awesome together!
  
  </div>
  
