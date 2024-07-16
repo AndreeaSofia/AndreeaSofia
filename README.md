@@ -8,23 +8,10 @@
 
 <div align="left">
  
- Welcome to my corner of the GitHub universe, where curiosity meets creativity. With a background in Philosophy from BBU, I've learned to navigate complex ideas with an analytical lens and a splash of empathy. Now, I'm diving into the world of Computer Science, eager to blend these new skills with a life-long passion for understanding and innovation.
-
-
-🌱 **What Drives Me**
-<br>
-I'm all about **_growth_**, **_empathy_**, and **_passion_**. While I may not boast a hefty tech repertoire just yet, my dedication and eagerness to learn are boundless. I believe that every line of code is a step towards mastery and every challenge is an _opportunity to expand my horizon_.
+ Welcome to my corner of the GitHub universe, where curiosity meets creativity. With a background in Philosophy from BBU, I've learned to navigate complex ideas with an analytical lens and a splash of empathy. Now, I'm diving into the world of Computer Science, eager to blend these new skills with a life-long passion for understanding and innovation. While I may not boast a hefty tech repertoire just yet, my dedication and eagerness to learn are boundless. 
 
 <br>
 
- 🎨 **Beyond the Code**
-<br>
-When I'm not tackling algorithms or trying to decipher complex problems, you can find me lost in the pages of a good book, chasing the thrill in video games, or finding the rhythm in sports. Life, to me, is about the stories we tell and the experiences we share.
-
-<br>
-
- 🤝 **Let's Connect**
- <br>
 If you're here to explore potential collaborations, share insights, or just have a chat about the latest RPG or existential philosophy, I'm your person. I'm on the lookout for opportunities to learn, grow, and contribute in meaningful ways. So, let's make something awesome together!
  
  </div>
