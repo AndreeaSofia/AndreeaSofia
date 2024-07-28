@@ -8,7 +8,7 @@
 
 <div align="left">
  
- Welcome to my corner of the GitHub universe, where curiosity meets creativity. With a background in Philosophy from BBU, I've learned to navigate complex ideas with an analytical lens and a splash of empathy. Now, I'm diving into the world of Computer Science, eager to blend these new skills with a life-long passion for understanding and innovation. While I may not boast a hefty tech repertoire just yet, my dedication and eagerness to learn are boundless. 
+ Welcome to my corner of the GitHub universe, where curiosity meets creativity. With a background in Philosophy from BBU, I've learned to navigate complex ideas with an analytical lens and a splash of empathy. Now, I'm diving into the world of Information Engineering, eager to blend these new skills with a life-long passion for understanding and innovation. While I may not boast a hefty tech repertoire just yet, my dedication and eagerness to learn are boundless. 
 
 <br>
 
