@@ -16,7 +16,7 @@ If you're here to explore potential collaborations, share insights, or just have
  
  </div>
  
-<h2 align="left"> Languages. Frameworks. Tools 🔨 </h2>
+<h2 align="left"> Languages. Frameworks. Tools </h2>
 <br/>
 
 <div align="center">
